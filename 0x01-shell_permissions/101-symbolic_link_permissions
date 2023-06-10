@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vinecent -hello
+chown -h vinecent:sttaf _hello
